@@ -230,7 +230,7 @@ Kernel → Restart & Run All. The data is in `data/`, and the notebook writes
 ```
 manufacturing-quality-defect-analysis/
 │
-├── README.md · LICENSE · requirements.txt · .gitignore · .gitattributes
+├── README.md
 │
 ├── notebooks/
 │   └── manufacturing-quality-defect-analysis.ipynb
